@@ -1,4 +1,3 @@
-package thread_class;
 public class ThreadClass extends Thread {
     // Override the run method to define the thread behaviour
     @Override
